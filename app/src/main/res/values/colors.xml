@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="lightest_pink">#FCCBCB</color>
+    <color name="semi_pink">#FAB7B7</color>
+    <color name="pink">#F5A8A8</color>
+    <color name="dark_pink">#E19999</color>
+    <color name="grey_pink">#D9ADAD</color>
+    <color name="lightest_grey">#ad9d9d</color>
+    <color name="grey">#838383</color>
+    <color name="dark_grey">#555555</color>
+    <color name="grey_white">#dddddd</color>
+    <color name="trans">#00DDDDDD</color>
+    <color name="black">#000000</color>
+</resources>
